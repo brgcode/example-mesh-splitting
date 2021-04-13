@@ -2,7 +2,7 @@
 Mesh Splitting
 **********************************
 
-.. figure:: image.png
+.. figure:: mesh-splitting.png
     :figclass: figure
     :class: figure-img img-fluid
 
